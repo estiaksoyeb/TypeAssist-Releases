@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/estiaksoyeb/TypeAssist/releases/download/v1.0.1/TypeAssist-v1.0.1.apk",
-  "changelog": "🚀 Initial Open Source Release!\n\n- ✨ Integrated Gemini 2.0 & Cloudflare Workers AI\n- 📝 Added Welcome Screen with live typing visualizations\n- 🛠 Offline Utility Belt: Calculator, Snippets, and Password Gen\n- 🛡 Added Global Undo and History Manager\n- 🎨 Refactored UI with Material 3 and fluid layouts\n- 🤝 Added Support/Donation section",
+  "versionCode": 3,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/estiaksoyeb/TypeAssist/releases",
+  "changelog": "Dark Mode, Global Inline Transformation (...instruction...), Smart Preview Dialog, and Settings Overhaul.",
   "forceUpdate": false
 }
