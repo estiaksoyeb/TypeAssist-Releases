@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.0",
+  "versionCode": 4,
+  "versionName": "1.2.0",
   "apkUrl": "https://github.com/estiaksoyeb/TypeAssist/releases",
-  "changelog": "Dark Mode, Global Inline Transformation (...instruction...), Smart Preview Dialog, and Settings Overhaul.",
+  "changelog": "Added Custom API Support (OpenAI-compatible) and disabled unstable Preview Dialog.",
   "forceUpdate": false
 }
