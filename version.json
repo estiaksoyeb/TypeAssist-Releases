@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "2.0.0",
+  "versionCode": 6,
+  "versionName": "3.0.0",
   "apkUrl": "https://github.com/estiaksoyeb/TypeAssist/releases/",
-  "changelog": "🚀 Major Release v2.0.0!\n\n- ✨ Prompt Anywhere: Reshape text inline with custom prompts using '...instruction...'\n- 💡 Did You Know?: New interactive discovery hub to learn hidden power features\n- 📂 Custom API Profiles: Save and switch between multiple AI provider configurations\n- ⚡ Trigger Anywhere: AI prompts, math, and snippets now work anywhere in the text\n- 🛠 Local LLM Support: Added cleartext traffic support for local API endpoints\n- 🎨 UI Revamp: Colorful home screen menus and polished animations\n- 🐛 Bug Fixes: Improved status bar consistency and overlay stability",
+  "changelog": "🚀 Major Release v3.0.0!\n\n- 🔐 Secure Backup: Encrypted file-based backup & restore for all your data\n- ⚙️ Pro API Configs: Save multiple profiles for Gemini & Cloudflare\n- 🧠 Smart Snippets: Intelligent conflict resolution for overlapping triggers\n- 🎨 Material 3: Complete visual overhaul with modern UI components\n- 🖥️ Stable Overlay: New accessibility-based preview with permission fallbacks",
   "forceUpdate": false
 }
