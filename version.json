@@ -1,7 +1,7 @@
 {
-"versioncode": 7,
-"versionname": "3.3.0",
-"apkurl": "https://github.com/estiaksoyeb/typeassist/releases/",
-"changelog": "🚀 new update v3.3.0!\n\n- ⚙️ custom triggers: change the global trigger pattern in settings\n- 🛡️ background stability: persistent notification & xiaomi/miui fixes\n- 📜 history control: disable or clear history manually\n- 📱 redesigned setup: new interactive welcome and permissions flow\n- 🖥️ improved preview: dialog stays open until explicitly discarded\n- 🌐 language tips: new guide for customizing ai response language",
-"forceupdate": false
+"versionCode": 7,
+"versionName": "3.3.0",
+"apkUrl": "https://github.com/estiaksoyeb/typeassist/releases/",
+"changeLog": "🚀 new update v3.3.0!\n\n- ⚙️ custom triggers: change the global trigger pattern in settings\n- 🛡️ background stability: persistent notification & xiaomi/miui fixes\n- 📜 history control: disable or clear history manually\n- 📱 redesigned setup: new interactive welcome and permissions flow\n- 🖥️ improved preview: dialog stays open until explicitly discarded\n- 🌐 language tips: new guide for customizing ai response language",
+"forceUpdate": false
 }
