@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "3.0.0",
-  "apkUrl": "https://github.com/estiaksoyeb/TypeAssist/releases/",
-  "changelog": "🚀 Major Release v3.0.0!\n\n- 🔐 Secure Backup: Encrypted file-based backup & restore for all your data\n- ⚙️ Pro API Configs: Save multiple profiles for Gemini & Cloudflare\n- 🧠 Smart Snippets: Intelligent conflict resolution for overlapping triggers\n- 🎨 Material 3: Complete visual overhaul with modern UI components\n- 🖥️ Stable Overlay: New accessibility-based preview with permission fallbacks",
-  "forceUpdate": false
+"versioncode": 7,
+"versionname": "3.3.0",
+"apkurl": "https://github.com/estiaksoyeb/typeassist/releases/",
+"changelog": "🚀 new update v3.3.0!\n\n- ⚙️ custom triggers: change the global trigger pattern in settings\n- 🛡️ background stability: persistent notification & xiaomi/miui fixes\n- 📜 history control: disable or clear history manually\n- 📱 redesigned setup: new interactive welcome and permissions flow\n- 🖥️ improved preview: dialog stays open until explicitly discarded\n- 🌐 language tips: new guide for customizing ai response language",
+"forceupdate": false
 }
