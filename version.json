@@ -1,7 +1,7 @@
 {
-"versionCode": 7,
-"versionName": "3.3.0",
+"versionCode": 8,
+"versionName": "3.4.4",
 "apkUrl": "https://github.com/estiaksoyeb/typeassist/releases/",
-"changelog": "🚀 new update v3.3.0!\n\n- ⚙️ custom triggers: change the global trigger pattern in settings\n- 🛡️ background stability: persistent notification & xiaomi/miui fixes\n- 📜 history control: disable or clear history manually\n- 📱 redesigned setup: new interactive welcome and permissions flow\n- 🖥️ improved preview: dialog stays open until explicitly discarded\n- 🌐 language tips: new guide for customizing ai response language",
+"changelog": "🚀 new update v3.4.4!\n\n- 🧠 command gallery: explore & import ready-made ai commands in one tap\n- 🔄 github updates: fetch release notes & apk directly inside the app\n- ⏱️ api timeout control: customize response wait time (10s–120s)\n- ⚙️ trigger flexibility: use triggers without needing a preceding space\n- 📱 ui polish: fixed edge-to-edge issues for modern android devices\n- ⚡ better detection: improved accessibility logic for faster, reliable triggers\n- 🛡️ improved stability: fixed rare crashes during background & network errors\n- 🚀 performance tweaks: smoother and faster experience under heavy usage\n- 🐛 bug fixes: general improvements and maintenance",
 "forceUpdate": false
 }
